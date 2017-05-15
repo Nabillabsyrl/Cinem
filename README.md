@@ -1,11 +1,11 @@
 # Cinemovie
 <h2> Nama Aplikasi      : Cinemovie 
 <br>
-<br> Link APK Release    : 
+<br> Link APK Release    : https://drive.google.com/open?id=0B0bUEsg48930cFhSMWk0MVlnb2s 
 <br><br>Identitas Siswa :
 <br><h3>Nama Lengkap : Nabilla M.BR
 <br> Kelas/No.urut: XI RPL 3 / 23
-<BR> NIS          : 00002710
+<BR> NIS          : 0006207403
 <br> Angkatan     : 24
 <br>SMK Telkom Malang </h3>
 <h2> Alamat API yang digunakan: https://www.themoviedb.org/
