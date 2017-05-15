@@ -7,7 +7,7 @@
 <br> Kelas/No.urut: XI RPL 3 / 23
 <BR> NIS          : 0006207403
 <br> Angkatan     : 24
-<br>SMK Telkom Malang </h3>
+<br>SMK Telkom Malang 
 <h2> Alamat API yang digunakan: https://www.themoviedb.org/
 <br><br>Navigasi yang digunakan : Navigasi Drawer
 <br><br>Library pada database : SQLite dasar
@@ -22,15 +22,9 @@
 <br>3. UI yang kurang menarik 
 <br><br> ScreenShot :
 <br>
-![screenshot_2017-05-14-22-06-00](https://cloud.githubusercontent.com/assets/22187727/26041625/8b860e6a-3958-11e7-9b61-3f163e03eca1.png)
-<br>
-![screenshot_2017-05-14-22-06-12](https://cloud.githubusercontent.com/assets/22187727/26041630/8bf1f904-3958-11e7-9132-e25c138eb5d5.png)
-<br>
-![screenshot_2017-05-14-22-06-30](https://cloud.githubusercontent.com/assets/22187727/26041626/8b97473e-3958-11e7-8928-070228691479.png)
-<br>
-![screenshot_2017-05-14-22-05-41](https://cloud.githubusercontent.com/assets/22187727/26041628/8b9d32e8-3958-11e7-9d18-c992e8c921f2.png)
-<br>
-![screenshot_2017-05-14-22-05-45](https://cloud.githubusercontent.com/assets/22187727/26041627/8b99b14a-3958-11e7-868f-266c3ac4050a.png)
-<br>
-![screenshot_2017-05-14-22-05-52](https://cloud.githubusercontent.com/assets/22187727/26041629/8bae4b46-3958-11e7-9335-e4272042b265.png)
-
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-05-41.png
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-05-45.png
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-05-52.png
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-06-00.png
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-06-12.png
+https://github.com/Nabillabsyrl/Cinemovie/blob/master/Screenshot_2017-05-14-22-06-30.png
